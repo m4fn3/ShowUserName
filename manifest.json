@@ -1,0 +1,12 @@
+{
+  "name": "ShowUserName",
+  "version": "1.0.0",
+  "description": "show their username in servers too",
+  "authors": [
+    {
+      "name": "mafu",
+      "id": "519760564755365888"
+    }
+  ],
+  "color": "#ffddbc"
+}
