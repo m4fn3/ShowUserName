@@ -1,7 +1,7 @@
 {
   "name": "ShowUserName",
   "version": "1.0.1",
-  "description": "show their username in servers too",
+  "description": "Show username in chat views",
   "authors": [
     {
       "name": "mafu",
